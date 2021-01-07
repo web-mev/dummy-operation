@@ -35,5 +35,6 @@
         }
     }, 
     "outputs": {}, 
-    "mode": "local_docker"
+    "mode": "local_docker",
+    "workspace_operation": true
 }
