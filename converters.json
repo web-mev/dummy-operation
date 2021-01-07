@@ -1,0 +1,5 @@
+{
+  "count_matrix":"api.converters.data_resource.LocalDockerSingleDataResourceConverter", 
+  "n": "api.converters.basic_attributes.IntegerConverter",
+  "general_resource": "api.converters.data_resource.LocalDockerSingleDataResourceConverter"
+}
