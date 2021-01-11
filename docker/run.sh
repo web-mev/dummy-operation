@@ -1,0 +1,1 @@
+echo "{}" > $WORKDIR/outputs.json
